@@ -21,6 +21,7 @@ public void display2()
 public static void main(String[] args) {
 	// this is the boundary of main method
 	
+	System.out.println(" changes done by me" );
 	student vishal=new student();
 	vishal.display1();//called deepak method
 	vishal.display2();
