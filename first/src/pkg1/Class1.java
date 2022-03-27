@@ -14,6 +14,7 @@ public class Class1 {
 	
 	public static void main(String[] args) {
 		Class1 ob=new Class1();
+		System.out.println("change done");
 		ob.method(2,3,4,5,6);
 		System.out.println(ob.a);
 		System.out.println(ob.b);
